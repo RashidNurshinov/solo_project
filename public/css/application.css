@@ -1,0 +1,38 @@
+.hr{
+    margin: 0; 
+    padding: 4px; 
+}
+li{
+    display: inline; 
+    margin-right: 5px;
+}
+
+.z{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#asdf{
+    margin-left: 20%;
+}
+#name{
+    margin-left: 19%;
+}
+#cash{
+    margin-left: 12%;
+}
+
+.text-danger{
+    margin-left: 18%;
+}
+
+.home{
+    margin-left: 32%;
+}
+.text-secondary{
+    margin-left: -5%;
+}
+
+#a{
+    margin-left: 16.5%;
+}
